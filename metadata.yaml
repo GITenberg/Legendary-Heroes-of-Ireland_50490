@@ -1,10 +1,16 @@
 _repo: Legendary-Heroes-of-Ireland_50490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50490-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Harold F.
     gutenberg_agent_id: '45936'
     url: http://www.gutenberg.org/2009/agents/45936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50490#Legendary-Heroes-of-Ireland
 gutenberg_issued: '2015-11-19'
 gutenberg_type: Text
 identifiers:
